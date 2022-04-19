@@ -11,3 +11,5 @@ Curso de Javascript de Cero a Junior
 * Promesas, Callbacks y Asyn/Await
 * Consumo de API's
 * SPA con Vainilla Jvascript
+* CRUD con Javascript
+* App de Pokemon con Vainilla Javascript
