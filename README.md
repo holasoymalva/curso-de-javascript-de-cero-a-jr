@@ -1,4 +1,4 @@
-# curso-de-javascript-de-cero-a-jr
+# Curso de javascript de cero a Jr
 Curso de Javascript de Cero a Junior
 
 ## Temario
