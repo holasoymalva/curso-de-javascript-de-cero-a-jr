@@ -12,6 +12,6 @@ Curso de Javascript de Cero a Junior
 * Concurrencia en Javascript
 * Promesas, Callbacks y Asyn/Await
 * Consumo de API's
-* SPA con Vainilla Jvascript
+* SPA con Vainilla Javascript
 * CRUD con Javascript
 * App de Pokemon con Vainilla Javascript
